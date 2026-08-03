@@ -1,0 +1,1 @@
+enum ConversationFilter { active, completed }
