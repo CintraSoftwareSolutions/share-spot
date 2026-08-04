@@ -79,7 +79,7 @@ class RewardOfferCard extends StatelessWidget {
                         style: const AppTextStyle(
                           color: AppColors.loginGreen,
                           fontSize: 12,
-                          fontWeight: FontWeight.w700,
+                          fontWeight: FontWeight.w600,
                         ),
                       ),
                       const SizedBox(height: 2),

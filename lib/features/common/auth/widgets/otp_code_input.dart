@@ -59,7 +59,7 @@ class _OtpCodeInputState extends State<OtpCodeInput> {
               style: const AppTextStyle(
                 color: AppColors.white,
                 fontSize: 18,
-                fontWeight: FontWeight.w700,
+                fontWeight: FontWeight.w600,
               ),
               decoration: InputDecoration(
                 counterText: '',

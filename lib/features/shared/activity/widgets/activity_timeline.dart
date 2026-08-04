@@ -182,7 +182,7 @@ class _TimelineEntry extends StatelessWidget {
                                 color: accent,
                                 fontSize: 18,
                                 height: 1,
-                                fontWeight: FontWeight.w700,
+                                fontWeight: FontWeight.w600,
                               ),
                             ),
                             const SizedBox(height: 5),

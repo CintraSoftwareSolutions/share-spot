@@ -29,7 +29,7 @@ class ParkingMapPin extends StatelessWidget {
         label,
         style: const AppTextStyle(
           color: AppColors.white,
-          fontWeight: FontWeight.w700,
+          fontWeight: FontWeight.w600,
         ),
       ),
     );

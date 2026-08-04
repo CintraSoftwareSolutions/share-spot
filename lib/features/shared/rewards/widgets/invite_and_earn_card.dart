@@ -50,7 +50,7 @@ class InviteAndEarnCard extends StatelessWidget {
                   style: AppTextStyle(
                     color: AppColors.white,
                     fontSize: 16,
-                    fontWeight: FontWeight.w700,
+                    fontWeight: FontWeight.w600,
                   ),
                 ),
                 const SizedBox(height: 7),

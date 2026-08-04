@@ -12,7 +12,7 @@ class GoogleMark extends StatelessWidget {
       style: AppTextStyle(
         color: AppColors.hexFF4285F4,
         fontSize: 18,
-        fontWeight: FontWeight.w700,
+        fontWeight: FontWeight.w600,
       ),
     );
   }

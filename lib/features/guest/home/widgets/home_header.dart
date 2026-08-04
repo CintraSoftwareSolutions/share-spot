@@ -16,7 +16,7 @@ class HomeHeader extends StatelessWidget {
         Text(
           'Welcome back',
           style: context.textTheme.headlineMedium?.copyWith(
-            fontWeight: FontWeight.w700,
+            fontWeight: FontWeight.w600,
           ),
         ),
         const SizedBox(height: 6),

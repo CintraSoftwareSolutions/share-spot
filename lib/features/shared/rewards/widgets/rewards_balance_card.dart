@@ -125,7 +125,7 @@ class RewardsBalanceCard extends StatelessWidget {
               ),
               label: const Text(
                 'Redeem Rewards',
-                style: AppTextStyle(fontSize: 15, fontWeight: FontWeight.w700),
+                style: AppTextStyle(fontSize: 15, fontWeight: FontWeight.w600),
               ),
             ),
           ),
@@ -172,7 +172,7 @@ class _BalanceValue extends StatelessWidget {
             color: valueColor,
             fontSize: 25,
             height: 1,
-            fontWeight: FontWeight.w700,
+            fontWeight: FontWeight.w600,
           ),
         ),
       ],

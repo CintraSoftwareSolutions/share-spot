@@ -24,7 +24,7 @@ class HomeScreen extends StatelessWidget {
         toolbarHeight: context.isMobile ? kToolbarHeight : 64,
         title: const Text(
           AppConstants.appName,
-          style: AppTextStyle(fontWeight: FontWeight.w700),
+          style: AppTextStyle(fontWeight: FontWeight.w600),
         ),
         actions: [
           IconButton(
@@ -53,7 +53,7 @@ class HomeScreen extends StatelessWidget {
               'Recent shares',
               style: Theme.of(
                 context,
-              ).textTheme.titleLarge?.copyWith(fontWeight: FontWeight.w700),
+              ).textTheme.titleLarge?.copyWith(fontWeight: FontWeight.w600),
             ),
             const SizedBox(height: 16),
             const _HomeItems(),

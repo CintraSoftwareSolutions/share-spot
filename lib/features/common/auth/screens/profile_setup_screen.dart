@@ -44,7 +44,7 @@ class ProfileSetupScreen extends StatelessWidget {
             style: AppTextStyle(
               color: AppColors.white,
               fontSize: 12,
-              fontWeight: FontWeight.w700,
+              fontWeight: FontWeight.w600,
             ),
           ),
           AuthFlexibleGap(height: context.isCompactHeight ? 8 : 10),

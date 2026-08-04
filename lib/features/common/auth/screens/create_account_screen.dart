@@ -195,7 +195,7 @@ class _CreateAccountScreenState extends State<CreateAccountScreen> {
                         text: 'Login',
                         style: AppTextStyle(
                           color: AppColors.authLink,
-                          fontWeight: FontWeight.w700,
+                          fontWeight: FontWeight.w600,
                         ),
                       ),
                     ],

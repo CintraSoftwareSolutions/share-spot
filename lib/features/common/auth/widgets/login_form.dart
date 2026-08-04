@@ -172,7 +172,7 @@ class _LoginFormState extends State<LoginForm> {
                     'Forgot Password?',
                     style: AppTextStyle(
                       fontSize: 12,
-                      fontWeight: FontWeight.w700,
+                      fontWeight: FontWeight.w600,
                     ),
                   ),
                 ),
@@ -244,7 +244,7 @@ class _LoginFormState extends State<LoginForm> {
                           text: 'Sign up',
                           style: AppTextStyle(
                             color: AppColors.authLink,
-                            fontWeight: FontWeight.w700,
+                            fontWeight: FontWeight.w600,
                           ),
                         ),
                       ],

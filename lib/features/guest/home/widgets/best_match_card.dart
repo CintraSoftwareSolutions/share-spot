@@ -93,7 +93,7 @@ class BestMatchCard extends StatelessWidget {
                       softWrap: false,
                       style: AppTextStyle(
                         fontSize: 14,
-                        fontWeight: FontWeight.w700,
+                        fontWeight: FontWeight.w600,
                       ),
                     ),
                   ),

@@ -154,7 +154,7 @@ class _DestinationMarker extends StatelessWidget {
               style: AppTextStyle(
                 color: AppColors.greenInk,
                 fontSize: 22,
-                fontWeight: FontWeight.w700,
+                fontWeight: FontWeight.w600,
               ),
             ),
           ),

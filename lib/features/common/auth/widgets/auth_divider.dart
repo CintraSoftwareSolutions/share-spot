@@ -18,7 +18,7 @@ class AuthDivider extends StatelessWidget {
             style: AppTextStyle(
               color: AppColors.hexFF999DA7,
               fontSize: 11,
-              fontWeight: FontWeight.w700,
+              fontWeight: FontWeight.w600,
             ),
           ),
         ),

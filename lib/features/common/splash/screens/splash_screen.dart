@@ -78,7 +78,7 @@ class _SplashScreenState extends State<SplashScreen> {
                       textAlign: TextAlign.center,
                       style: context.textTheme.labelSmall?.copyWith(
                         color: AppColors.white,
-                        fontWeight: FontWeight.w700,
+                        fontWeight: FontWeight.w600,
                         height: 1,
                         letterSpacing: 0,
                       ),

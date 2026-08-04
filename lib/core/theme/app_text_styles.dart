@@ -60,8 +60,8 @@ abstract final class AppTextStyles {
     fontFamily: AppFonts.primary,
     color: AppColors.background,
     fontSize: 8,
-    fontWeight: FontWeight.w700,
-    fontVariations: [FontVariation('wght', 700)],
+    fontWeight: FontWeight.w600,
+    fontVariations: [FontVariation('wght', 600)],
     height: 1.15,
     letterSpacing: 0,
     decoration: TextDecoration.none,
@@ -97,8 +97,8 @@ abstract final class AppTextStyles {
   static const TextStyle authButtonLabel = AppTextStyle(
     fontFamily: AppFonts.primary,
     fontSize: 14,
-    fontWeight: FontWeight.w700,
-    fontVariations: [FontVariation('wght', 700)],
+    fontWeight: FontWeight.w600,
+    fontVariations: [FontVariation('wght', 600)],
     height: 1.2,
     letterSpacing: 0,
   );
@@ -191,17 +191,17 @@ abstract final class AppTextStyles {
   static const TextStyle display = AppTextStyle(
     fontFamily: AppFonts.primary,
     fontSize: 37,
-    fontWeight: FontWeight.w700,
-    fontVariations: [FontVariation('wght', 700)],
+    fontWeight: FontWeight.w600,
+    fontVariations: [FontVariation('wght', 600)],
     height: 1,
     letterSpacing: 0,
   );
 
   static const TextStyle heading = AppTextStyle(
-    fontFamily: AppFonts.brand,
+    fontFamily: AppFonts.primary,
     fontSize: 36,
-    fontWeight: FontWeight.w700,
-    fontVariations: [FontVariation('wght', 700)],
+    fontWeight: FontWeight.w600,
+    fontVariations: [FontVariation('wght', 600)],
     height: 1,
     letterSpacing: 0,
   );

@@ -105,7 +105,7 @@ class ActivitySummaryCard extends StatelessWidget {
                                         color: AppColors.loginGreen,
                                         fontSize: 30,
                                         height: 1,
-                                        fontWeight: FontWeight.w700,
+                                        fontWeight: FontWeight.w600,
                                       ),
                                     ),
                                     const SizedBox(width: 5),

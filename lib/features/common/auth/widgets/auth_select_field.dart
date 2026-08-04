@@ -28,7 +28,7 @@ class AuthSelectField extends StatelessWidget {
           style: const AppTextStyle(
             color: AppColors.white,
             fontSize: 12,
-            fontWeight: FontWeight.w700,
+            fontWeight: FontWeight.w600,
           ),
         ),
         SizedBox(height: context.isCompactHeight ? 5 : 8),

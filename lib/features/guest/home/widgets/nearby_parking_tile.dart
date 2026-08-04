@@ -43,7 +43,7 @@ class NearbyParkingTile extends StatelessWidget {
               'P',
               style: AppTextStyle(
                 color: AppColors.loginGreen,
-                fontWeight: FontWeight.w700,
+                fontWeight: FontWeight.w600,
               ),
             ),
           ),
